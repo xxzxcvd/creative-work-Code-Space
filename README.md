@@ -139,6 +139,13 @@ class Binary {
 }
 ```
 
+# References
+
+- Interactive Art: Interventions in/to Process： I completed this project inspired by the interaction theory in this book.
+- Golan Levin‘s Ursonography：This artist's work also inspires me.The artist uses technology to enhance and reveal hidden structures in art, just as my work “Code Space” takes the high-level language code written by software engineers and expresses it in its most essential binary structure.
+- https://p5js.org/tutorials/setting-up-your-environment/. This tutorial inspired me to build the environment when building this project
+
+
 
 
 
